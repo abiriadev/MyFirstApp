@@ -4,13 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Vars.Examples
+namespace Array.Examples
 {
-	class Hello
+	class ANS
 	{
-		public static void Run()
-		{
-			System.Console.WriteLine("Hello, world!");
-		}
+		public string positive { get; set; }
+		public string nagative { get; set; }
 	}
 }

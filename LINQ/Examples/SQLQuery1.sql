@@ -1,0 +1,5 @@
+﻿USE testdb
+
+ALTER TABLE TB_USER
+ADD newCol2 INT NULL
+GO

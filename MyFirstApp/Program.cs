@@ -2,7 +2,7 @@
 
 //using System;
 
-namespace MyFirstApp
+namespace Vars
 {
 	class Program
 	{
@@ -10,10 +10,10 @@ namespace MyFirstApp
 		{
 			System.Console.WriteLine("Hello World!");
 
-			Examples.Hello hello = new Examples.Hello();
+			// Vars.Examples.Hello hello = new Vars.Examples.Hello();
 
 
-			System.Console.ReadKey();
+			//System.Console.ReadKey();
 
 			//a
 
